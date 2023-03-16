@@ -126,8 +126,7 @@ delete word.
 
 #### 기존의 오퍼레이터와 함께 커스텀 모션 활용하기
 
-
-
-
-
+* textobj-entire 플러그인
+  * *ie*, *ae*
+* *h omap-info*
 
